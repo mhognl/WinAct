@@ -10,6 +10,6 @@ Open the file with your favourite text or code editor (I recommend using Notepad
 
 I want to give you a KMS address you can use (it´s my own): vps.maxhog.nl
 
-Put the $OEM$ folder in usb_root\sources
+Put the "$OEM$" folder in usb_root\sources
 
 Later I will add some KMS keys and maybe more scripts.
