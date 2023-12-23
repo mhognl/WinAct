@@ -12,4 +12,7 @@ I want to give you a KMS address you can use (it´s my own): vps.maxhog.nl
 
 Put the "$OEM$" folder in usb_root\sources
 
-Later I will add some KMS keys and maybe more scripts.
+## ei.cfg file
+If you don´t want to customize the folder then use the file "$OEM$"-W10-and-W11-Pro.7z. Extract it and put it in the usb_root\sources folder. Also add ei.cfg to usb_root\sources.
+
+### Happy Hacking!
