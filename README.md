@@ -11,6 +11,6 @@ Open the file with your favourite text or code editor (I recommend using Notepad
 Put the "$OEM$" folder in usb_root\sources
 
 ## ei.cfg file
-If you don´t want to customize the folder then use the file "$OEM$"-W10-and-W11-Pro.7z. Extract it and put it in the usb_root\sources folder. Also add ei.cfg to usb_root\sources.
+If you don´t want to customize the folder then use the file "$OEM$"-W10-and-W11-Pro.7z. Extract it and put it in the usb_root\sources folder. Also add ei.cfg to usb_root\sources. You can also use other "$OEM$" folders.
 
 ### Happy Hacking!
